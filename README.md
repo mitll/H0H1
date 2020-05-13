@@ -1,13 +1,8 @@
 # H0H1
 
-### Distribution Statement
+The goal of the situational test is to collect realistic Bluetooth RSSI data between an iPhone and another phone (iPhone or Android) for a period of time at two different distances (i.e. within transmission distance, and a safe distance away) while the testers go about their daily lives in a variety of environmental
+conditions.
 
-DISTRIBUTION STATEMENT A. Approved for public release. Distribution is unlimited.
+In the H0 test, the testers are asked to remain 10 ft. or more apart for 15 minutes while interacting with each other. Another test, the H1 test, will have the testers stay within 6 ft. of each other for the same duration. Testers can be in any environment they choose such as walking outside, talking across a table, or sitting across the room from each other. The testers may also use the phones as they wish throughout the test.
 
-This material is based upon work supported by the United States Air Force under Air Force Contract No. FA8702-15-D-0001. Any opinions, findings, conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the United States Air Force.
-
-© 2020 Massachusetts Institute of Technology.
-
-The software/firmware is provided to you on an As-Is basis
-
-Delivered to the U.S. Government with Unlimited Rights, as defined in DFARS Part 252.227-7013 or 7014 (Feb 2014). Notwithstanding any copyright notice, U.S. Government rights in this work are defined by DFARS 252.227-7013 or DFARS 252.227-7014 as detailed above. Use of this work other than as specifically authorized by the U.S. Government may violate any copyrights that exist in this work.
+Testers are to be family/house members who are isolating in the same residence together. Social distancing between non-members should be observed. 
